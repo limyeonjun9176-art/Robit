@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\robit-C\\3\uC77C\uCC28 \uACFC\uC81C7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D62D62-B792-49A2-B02D-6617495B0F98}|3\uC77C\uCC28 \uACFC\uC81C7.vcxproj|C:\\robit-C\\3\uC77C\uCC28 \uACFC\uC81C7\\3\uC77C\uCC28 \uACFC\uC81C7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B2D62D62-B792-49A2-B02D-6617495B0F98}|3\uC77C\uCC28 \uACFC\uC81C7.vcxproj|solutionrelative:3\uC77C\uCC28 \uACFC\uC81C7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3\uC77C\uCC28 \uACFC\uC81C7.c",
+              "DocumentMoniker": "C:\\robit-C\\3\uC77C\uCC28 \uACFC\uC81C7\\3\uC77C\uCC28 \uACFC\uC81C7.c",
+              "RelativeDocumentMoniker": "3\uC77C\uCC28 \uACFC\uC81C7.c",
+              "ToolTip": "C:\\robit-C\\3\uC77C\uCC28 \uACFC\uC81C7\\3\uC77C\uCC28 \uACFC\uC81C7.c",
+              "RelativeToolTip": "3\uC77C\uCC28 \uACFC\uC81C7.c",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-07-15T06:11:17.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
